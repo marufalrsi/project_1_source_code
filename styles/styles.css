@@ -155,6 +155,53 @@ a:hover{
 }
 .sec5{
     display: flex;
+    align-items: center;
     justify-content: space-between;
-    padding: ;
+    padding: 92px 150px 14px 150px;
+}
+.sec5 p{
+    text-align: left;
+    font-size: 60px;
+    font-weight: bold;
+}
+.submit{
+    padding: 19px 0px;
+    background-color: rgba(78, 71, 255, 1);
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    border-radius: 18px;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    height: 62px;
+    width: 100%;
+}
+form input{
+    height: 70px;
+    width: 497px;
+    border-radius:10px;
+    background-color: white;
+    padding: 20px 32px;
+}
+form textarea{
+    height: 135px;
+    width: 497px;
+    border-radius:10px;
+    background-color: white;
+    padding: 20px 32px;
+}
+legend{
+    font-size: 18px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight:16px;
+    padding: 19px 0px;
+}
+.common_buttons:hover{
+    background-color:pink;
+}
+form input:hover{
+    background-color: pink;
 }
