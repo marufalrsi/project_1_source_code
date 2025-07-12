@@ -63,3 +63,63 @@ padding: 116px 0px;
     border-radius: 48px;
     background-color: #4E47FF;
 }
+.sec2{
+    height: 306px;
+    width: 1140px;
+    background-color: rgba(8, 0, 247, 0.1);
+    border-radius: 28px;
+    text-align: center;
+}
+.sec2_div{
+    display: flex;
+    gap: 0 167px;
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 20px;
+    font-weight: 400px;
+    padding: 0px 142px;
+}
+.sec2_div_span{
+    font-weight: bold;
+    font-size: 80px;
+}
+.sec2 h1{
+    padding-top:50px ;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+
+}
+.sec3 h1{
+    padding-top:50px ;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    text-align: center;
+
+}
+.stars ul{
+list-style-type: none;
+display: flex;
+padding: 0px;
+}
+.comenter_info{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.sec3_div{
+    background-color: rgba(255, 255, 255, 0.5);
+    border: 1px solid rgba(242, 237, 237, 1);
+    width: 366.67px;
+    height: 243;
+    padding: 24px 24px;
+    border-radius: 14px;
+}
+.comments{
+    display: flex;
+    gap: 20px;
+    padding-top: 25px;
+}
+.sec3{
+    padding-top: 137px;
+}
