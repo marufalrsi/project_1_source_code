@@ -123,3 +123,38 @@ padding: 0px;
 .sec3{
     padding-top: 137px;
 }
+.sec4{
+    padding-bottom:71px;
+}
+footer{
+    padding: 104px 400px;
+}
+.fhead{
+    text-align: center;
+    font-size: 100px;
+    font-weight: 900px;
+    font-weight: bolder;
+}
+.fbody{
+    text-align: center;
+    font-size: 16px;
+    color: rgba(137, 135, 161, 1);
+}
+.ftail{
+    padding: 70px 65px 0px 70px;
+    font-size: 16px;
+    display: flex;
+    gap: 45px;
+    color: rgba(137, 135, 161, 1);
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color:red
+}
+.sec5{
+    display: flex;
+    justify-content: space-between;
+    padding: ;
+}
